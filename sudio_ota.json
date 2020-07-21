@@ -2,10 +2,10 @@
 	"earphones": [{
 			"name": "Sudio Ett",
 			"vendorID": "19731",
-			"version": "2.0.0",
+			"version": "2.0.1",
 			"message": "Feature added,Bug fixes,Language support",
-			"ota_left_url": "https://github.com/sudioAPP/OTAFile/blob/master/sudio_ett_L_V2.0.bin?raw=true",
-			"ota_right_url": "https://github.com/sudioAPP/OTAFile/blob/master/sudio_ett_R_V2.0.bin?raw=true"
+			"ota_left_url": "https://github.com/sudioAPP/OTAFile/blob/master/sudio_ett_L_V2.0.1.bin?raw=true",
+			"ota_right_url": "https://github.com/sudioAPP/OTAFile/blob/master/sudio_ett_R_V2.0.1.bin?raw=true"
 		},
 
 		{
